@@ -195,7 +195,7 @@ exit
 timeout /t 1 /nobreak > NUL
 echo. Disabling Animations
 timeout /t 2 /nobreak > NUL
-powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Select adjust for best performance and press apply', 'Conker Free Utility', 'Ok', [System.Windows.Forms.MessageBoxIcon]::Information);}"
+powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Select adjust for best performance and press apply', 'Tweakify Free Utility', 'Ok', [System.Windows.Forms.MessageBoxIcon]::Information);}"
 %windir%\system32\SystemPropertiesPerformance.exe
 Reg.exe add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v "EnableTransparency" /t REG_DWORD /d "0" /f
 Reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "TaskbarAnimations" /t REG_DWORD /d 0 /f
