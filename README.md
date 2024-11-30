@@ -1,6 +1,3 @@
-
-# https://discord.com/invite/Tweakify
-
 # Tweakify Utility
 
 ## Introduction
@@ -19,6 +16,9 @@ Tweakify utility is a utility taking advantage of the batchfile script to apply 
 
 - You dont need to use manual methods with this.
 
+#### Support
+- https://discord.gg/Tweakify
+
 > [!NOTE] 
 > This utility edits the registry! follow [this guide made for the utility](https://youtu.be/9454bpZ3tiA).
 
@@ -28,6 +28,7 @@ Tweakify utility is a utility taking advantage of the batchfile script to apply 
   - *(Tested on Windows 10 22H2 & Windows 11 24H2)*
   - *( 64-bit is supported)*
 
+[Get the release!](https://github.com/CrimsonicSniper/Tweakify-Public/releases/tag/Optimizer)
 ## Features
 - Disable Animations
 - Cleaner
