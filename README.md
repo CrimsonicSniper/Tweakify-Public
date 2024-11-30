@@ -29,21 +29,21 @@ Tweakify utility is a utility taking advantage of the batchfile script to apply 
   - *( 64-bit is supported)*
 
 ## Features
-Disable Animations
-Cleaner
-KBM Tweaks
-USB Tweaks
-GPU Tweaks
-CPU Tweaks
-Power Tweaks
-Bios Tweaks
-CTT Debloat
-Storage Tweaks
-Network Tweaks
-FSE Tweaks
-Remove Microsoft Apps
-Services Tweaks
-Optimize DirectX
-Telementary Tweaks
-BCD Tweaks
-Network Reset
+- Disable Animations
+- Cleaner
+- KBM Tweaks
+- USB Tweaks
+- GPU Tweaks
+- CPU Tweaks
+- Power Tweaks
+- Bios Tweaks
+- CTT Debloat
+- Storage Tweaks
+- Network Tweaks
+- FSE Tweaks
+- Remove Microsoft Apps
+- Services Tweaks
+- Optimize DirectX
+- Telementary Tweaks
+- BCD Tweaks
+- Network Reset
