@@ -45,6 +45,6 @@ Tweakify utility is a utility taking advantage of the batchfile script to apply 
 - Remove Microsoft Apps
 - Services Tweaks
 - Optimize DirectX
-- Telementary Tweaks
+- Telemetry Tweaks
 - BCD Tweaks
 - Network Reset
