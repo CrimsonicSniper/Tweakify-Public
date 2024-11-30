@@ -4,7 +4,7 @@
 
 Tweakify utility is a utility taking advantage of the batchfile script to apply registry tweaks to your computer.
 
-### Why Use a tweaking software? (Our Tweaking Software.)
+### Why use a tweaking software? (our tweaking software)
 
 #### Security
 
